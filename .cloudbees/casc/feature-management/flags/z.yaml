@@ -2,7 +2,7 @@
 apiVersion: featuremanagement.cloudbees.io/v1alpha1
 kind: flag
 
-flag: f1
+flag: z
 flagType: boolean
 description: ""
 labels:
